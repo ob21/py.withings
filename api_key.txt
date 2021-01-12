@@ -1,0 +1,3 @@
+ClientID : f3ae28c3daea668ad96debc36f66970bfc408a5f199706e7df6c16a69118913b
+Secret : 595a92e487ed5f3976b12cf99b0c7176ba43c550b479ce60a8801ff1fce0e540
+CallbackURL : https://obriand.fr
